@@ -1,0 +1,1 @@
+start /min java -jar src\client\client.jar
